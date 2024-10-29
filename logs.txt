@@ -1,0 +1,14 @@
+'h'
+'e'
+'l'
+'l'
+'o'
+Key.space
+'w'
+'o'
+'r'
+'l'
+'d'
+Key.shift
+'!'
+Key.enter
